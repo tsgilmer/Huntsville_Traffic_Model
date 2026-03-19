@@ -40,7 +40,7 @@ The model evaluates how disruptions, demand variability, and time-of-day pattern
 ![Monte Carlo](HSV_MC_Distribution_of_Delay_Fig_4.png)
 
 ### Time-of-Day Analysis
-![Time of Day](figures/HSV_Time_of_Day_Delay_Fig%205.png)
+![Time of Day](HSV_Time_of_Day_Delay_Fig%205.png)
 
 ---
 
